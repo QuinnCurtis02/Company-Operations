@@ -1,0 +1,145 @@
+.ontrack {
+	--sl-color-accent-low: #0d2441;
+	--sl-color-accent: #0067cb;
+	--sl-color-accent-high: #afcbf1;
+	--sl-color-white: #ffffff;
+	--sl-color-gray-1: #e3efff;
+	--sl-color-gray-2: #9ac5fd;
+	--sl-color-gray-3: #2e8af8;
+	--sl-color-gray-4: #0055ab;
+	--sl-color-gray-5: #003671;
+	--sl-color-gray-6: #002552;
+	--sl-color-black: #001737;
+  }
+  /* Light mode colors. */
+  /*:root[data-theme='light'] {
+	  --sl-color-accent-low: #c3d9f6;
+	  --sl-color-accent: #0069cf;
+	  --sl-color-accent-high: #0b3260;
+	  --sl-color-white: #001737;
+	  --sl-color-gray-1: #002552;
+	  --sl-color-gray-2: #003671;
+	  --sl-color-gray-3: #0055ab;
+	  --sl-color-gray-4: #2e8af8;
+	  --sl-color-gray-5: #9ac5fd;
+	  --sl-color-gray-6: #e3efff;
+	  --sl-color-gray-7: #f1f7ff;
+	  --sl-color-black: #ffffff;
+  }*/
+  
+  .splashkit {
+	--sl-color-accent-low: #331f02;
+	--sl-color-accent: #905e00;
+	--sl-color-accent-high: #dec4a3;
+	--sl-color-white: #ffffff;
+	--sl-color-gray-1: #ffead1;
+	--sl-color-gray-2: #e2bb89;
+	--sl-color-gray-3: #bc7c00;
+	--sl-color-gray-4: #794e00;
+	--sl-color-gray-5: #4e3100;
+	--sl-color-gray-6: #382100;
+	--sl-color-black: #241400;
+  }
+  
+  /* Light mode colors. */
+  /*:root[data-theme='light'] {
+	  --sl-color-accent-low: #e7d3bb;
+	  --sl-color-accent: #925f00;
+	  --sl-color-accent-high: #472c00;
+	  --sl-color-white: #241400;
+	  --sl-color-gray-1: #382100;
+	  --sl-color-gray-2: #4e3100;
+	  --sl-color-gray-3: #794e00;
+	  --sl-color-gray-4: #bc7c00;
+	  --sl-color-gray-5: #e2bb89;
+	  --sl-color-gray-6: #ffead1;
+	  --sl-color-gray-7: #fff5e8;
+	  --sl-color-black: #ffffff;
+  }*/
+  
+  .artGallery {
+	  --sl-color-accent-low: #242424;
+	  --sl-color-accent: #6a6a6a;
+	  --sl-color-accent-high: #c8c8c8;
+	  --sl-color-white: #ffffff;
+	  --sl-color-gray-1: #eeeeee;
+	  --sl-color-gray-2: #c2c2c2;
+	  --sl-color-gray-3: #8b8b8b;
+	  --sl-color-gray-4: #585858;
+	  --sl-color-gray-5: #383838;
+	  --sl-color-gray-6: #272727;
+	  --sl-color-black: #181818;
+  }
+  /* Light mode colors. */
+  /*:root[data-theme='light'] {
+	  --sl-color-accent-low: #d7d7d7;
+	  --sl-color-accent: #6b6b6b;
+	  --sl-color-accent-high: #323232;
+	  --sl-color-white: #181818;
+	  --sl-color-gray-1: #272727;
+	  --sl-color-gray-2: #383838;
+	  --sl-color-gray-3: #585858;
+	  --sl-color-gray-4: #8b8b8b;
+	  --sl-color-gray-5: #c2c2c2;
+	  --sl-color-gray-6: #eeeeee;
+	  --sl-color-gray-7: #f6f6f6;
+	  --sl-color-black: #ffffff;
+  }*/
+  
+  .courseFlow {
+	--sl-color-accent-low: #1a2140;
+	--sl-color-accent: #495ccc;
+	--sl-color-accent-high: #bbc7ef;
+	--sl-color-white: #ffffff;
+	--sl-color-gray-1: #e8edff;
+	--sl-color-gray-2: #aebffb;
+	--sl-color-gray-3: #6880f3;
+	--sl-color-gray-4: #3a49b7;
+	--sl-color-gray-5: #20228f;
+	--sl-color-gray-6: #150279;
+	--sl-color-black: #0c113f;
+  }
+  /* Light mode colors. */
+  /*:root[data-theme='light'] {
+	  --sl-color-accent-low: #ccd6f4;
+	  --sl-color-accent: #4b5ece;
+	  --sl-color-accent-high: #232d5e;
+	  --sl-color-white: #0c113f;
+	  --sl-color-gray-1: #150279;
+	  --sl-color-gray-2: #20228f;
+	  --sl-color-gray-3: #3a49b7;
+	  --sl-color-gray-4: #6880f3;
+	  --sl-color-gray-5: #aebffb;
+	  --sl-color-gray-6: #e8edff;
+	  --sl-color-gray-7: #f3f6ff;
+	  --sl-color-black: #ffffff;
+  }*/
+  
+  .operations {
+	  --sl-color-accent-low: #401219;
+	  --sl-color-accent: #c40043;
+	  --sl-color-accent-high: #f4b6ba;
+	  --sl-color-white: #ffffff;
+	  --sl-color-gray-1: #ffe7e8;
+	  --sl-color-gray-2: #ffa5ad;
+	  --sl-color-gray-3: #f13c62;
+	  --sl-color-gray-4: #a50037;
+	  --sl-color-gray-5: #6d0021;
+	  --sl-color-gray-6: #4f0016;
+	  --sl-color-black: #35000c;
+  }
+  /* Light mode colors. */
+  /*:root[data-theme='light'] {
+	  --sl-color-accent-low: #f8c9cc;
+	  --sl-color-accent: #c80044;
+	  --sl-color-accent-high: #5d1121;
+	  --sl-color-white: #35000c;
+	  --sl-color-gray-1: #4f0016;
+	  --sl-color-gray-2: #6d0021;
+	  --sl-color-gray-3: #a50037;
+	  --sl-color-gray-4: #f13c62;
+	  --sl-color-gray-5: #ffa5ad;
+	  --sl-color-gray-6: #ffe7e8;
+	  --sl-color-gray-7: #fff3f3;
+	  --sl-color-black: #ffffff;
+  }*/

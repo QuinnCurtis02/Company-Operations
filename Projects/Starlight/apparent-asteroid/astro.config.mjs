@@ -5,6 +5,9 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
+			customCss: [
+				'./src/styles/custom.css'	
+			],
 			title: 'Thoth Tech',
 			logo: {
 				dark: './src/assets/logo-dark-theme.png',
