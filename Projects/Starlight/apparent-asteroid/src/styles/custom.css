@@ -28,18 +28,16 @@
   }*/
   
   .splashkit {
-	--sl-color-accent-low: #331f02;
-	--sl-color-accent: #905e00;
-	--sl-color-accent-high: #dec4a3;
-	--sl-color-white: #ffffff;
-	--sl-color-gray-1: #ffead1;
-	--sl-color-gray-2: #e2bb89;
-	--sl-color-gray-3: #bc7c00;
-	--sl-color-gray-4: #794e00;
-	--sl-color-gray-5: #4e3100;
-	--sl-color-gray-6: #382100;
-	--sl-color-black: #241400;
+	--sl-color-gray-1: #F5A623; /*??*/
+	--sl-color-gray-2: #F5A623; /*hover outline*/
+	--sl-color-gray-3: #F5A623; /*Text Colour*/
+	--sl-color-gray-4: #F5A623; /*??*/
+	--sl-color-gray-5: #855506; /*non-hover outline*/
+	--sl-color-gray-6: #855506; /*hover background*/
+	--sl-color-black: #F5A623; /*Text colour light mode*/
+	--sl-color-white: #F5A623; /*Text colour dark mode*/
   }
+
   
   /* Light mode colors. */
   /*:root[data-theme='light'] {
