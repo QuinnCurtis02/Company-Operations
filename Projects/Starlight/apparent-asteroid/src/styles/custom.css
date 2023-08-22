@@ -39,6 +39,13 @@
   --sl-color-gray-6: #131313; /*hover background*/
   --sl-color-black: #3691ff; /*Text colour light mode*/
   --sl-color-white: #3691ff; /*Text colour dark mode*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img.ontrack{
+	float: right;
 }
 
 .splashkit {
@@ -50,6 +57,9 @@
   --sl-color-gray-6: #131313; /*hover background*/
   --sl-color-black: #f5a623; /*Text colour light mode*/
   --sl-color-white: #f5a623; /*Text colour dark mode*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .artGallery {
@@ -61,6 +71,8 @@
   --sl-color-gray-6: #131313; /*hover background*/
   --sl-color-black: #545454; /*Text colour light mode*/
   --sl-color-white: #545454; /*Text colour dark mode*/
+  display: flex;
+  justify-content: center;
 }
 
 .courseFlow {
@@ -72,6 +84,9 @@
   --sl-color-gray-6: #131313; /*hover background*/
   --sl-color-black: #7089fd; /*Text colour light mode*/
   --sl-color-white: #7089fd; /*Text colour dark mode*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .operations {
@@ -83,4 +98,15 @@
   --sl-color-gray-6: #131313; /*hover background*/
   --sl-color-black: #fc486b; /*Text colour light mode*/
   --sl-color-white: #fc486b; /*Text colour dark mode*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*product images*/ 
+.pi{
+	width: 50px;
+	height: 50px;
+	object-fit: scale-down;
+	margin: 30px;
 }
